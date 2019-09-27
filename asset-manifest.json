@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lottie-previewer/static/css/main.a1576cfe.chunk.css",
+    "main.js": "/lottie-previewer/static/js/main.49a7685d.chunk.js",
+    "main.js.map": "/lottie-previewer/static/js/main.49a7685d.chunk.js.map",
+    "runtime-main.js": "/lottie-previewer/static/js/runtime-main.bd077f51.js",
+    "runtime-main.js.map": "/lottie-previewer/static/js/runtime-main.bd077f51.js.map",
+    "static/css/2.cc82b09a.chunk.css": "/lottie-previewer/static/css/2.cc82b09a.chunk.css",
+    "static/js/2.a75116e9.chunk.js": "/lottie-previewer/static/js/2.a75116e9.chunk.js",
+    "static/js/2.a75116e9.chunk.js.map": "/lottie-previewer/static/js/2.a75116e9.chunk.js.map",
+    "index.html": "/lottie-previewer/index.html",
+    "precache-manifest.471a774705c6f87ed7363cfaf7adffdd.js": "/lottie-previewer/precache-manifest.471a774705c6f87ed7363cfaf7adffdd.js",
+    "service-worker.js": "/lottie-previewer/service-worker.js",
+    "static/css/2.cc82b09a.chunk.css.map": "/lottie-previewer/static/css/2.cc82b09a.chunk.css.map",
+    "static/css/main.a1576cfe.chunk.css.map": "/lottie-previewer/static/css/main.a1576cfe.chunk.css.map"
+  }
+}
