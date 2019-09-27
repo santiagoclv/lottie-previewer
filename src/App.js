@@ -5,7 +5,7 @@ import { Layout } from 'antd';
 import { Row, Col } from 'antd';
 import './App.css';
 
-const { Header, Content } = Layout;
+const { Content } = Layout;
 
 function App() {
 
@@ -17,7 +17,6 @@ function App() {
 
   return (
     <Layout className="App">
-      <Header>header</Header>
       <Layout>
         <Content>
           <Row gutter={8}  >
