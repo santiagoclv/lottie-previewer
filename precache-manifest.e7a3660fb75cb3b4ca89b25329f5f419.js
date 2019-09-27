@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfbec1c18a85fae2131a76168b6333db",
+    "revision": "c0fbfaff3e6769a0deb61a0a9234a5cd",
     "url": "/lottie-previewer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lottie-previewer/static/css/2.cc82b09a.chunk.css"
   },
   {
-    "revision": "76c5fe8433297139d700",
+    "revision": "f478190c4c3cc2c24e1e",
     "url": "/lottie-previewer/static/css/main.de267af3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lottie-previewer/static/js/2.cafb9b9a.chunk.js"
   },
   {
-    "revision": "76c5fe8433297139d700",
-    "url": "/lottie-previewer/static/js/main.a25cd479.chunk.js"
+    "revision": "f478190c4c3cc2c24e1e",
+    "url": "/lottie-previewer/static/js/main.21dded68.chunk.js"
   },
   {
     "revision": "36e8f279c9d952470c7a",
