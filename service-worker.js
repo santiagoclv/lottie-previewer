@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lottie-previewer/precache-manifest.ceeef39c642bff6ab63c783dc270f3c2.js"
+  "/lottie-previewer/precache-manifest.dc389378def07dc88e9a08d4372ac783.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f4a082affc2ec3ea196c92b8524da77",
+    "revision": "dfbec1c18a85fae2131a76168b6333db",
     "url": "/lottie-previewer/index.html"
   },
   {
