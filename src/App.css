@@ -10,3 +10,8 @@
   border-left-style: solid;
   border-left-color: #001529;
 }
+
+.App .HeaderBar{
+  border-bottom-style: solid;
+  border-bottom-color: #001529;
+}

@@ -1,13 +1,11 @@
 import React from 'react';
 import '@lottiefiles/lottie-player';
 import AnimarionForm from "./AnimarionForm";
-import { Layout, Typography } from 'antd';
+import { Layout, PageHeader } from 'antd';
 import { Row, Col } from 'antd';
 import './App.css';
 
-
-const { Title } = Typography;
-const { Content, Header } = Layout;
+const { Content } = Layout;
 
 function App() {
 
@@ -19,10 +17,7 @@ function App() {
 
   return (
     <Layout className="App">
-      <Header>
-        <Title >Lottie Viewer</Title>
-        <Title level={4}>Play Lottie animations exported with Bodymovin using wild cards.</Title>
-      </Header>
+      <PageHeader className="HeaderBar" title="Lottie Viewer" subTitle="Play Lottie animations exported with Bodymovin using wild cards." />
       <Layout>
         <Content>
           <Row gutter={8}  >
