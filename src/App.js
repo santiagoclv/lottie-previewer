@@ -1,16 +1,17 @@
 import React from 'react';
 import '@lottiefiles/lottie-player';
 import AnimarionForm from "./AnimarionForm";
-import { Layout, PageHeader } from 'antd';
-import { Row, Col } from 'antd';
+import { Layout, PageHeader, Row, Col } from 'antd';
 import './App.css';
 
 const { Content } = Layout;
 
 function App() {
 
+  
   const refreshAnimation = (payload) => {
     const player = document.querySelector('lottie-player');
+
     player.load(payload);
   };
 
@@ -21,7 +22,7 @@ function App() {
       <Layout>
         <Content>
           <Row gutter={8}  >
-            <Col span={16} >
+            <Col span={16} style={{maxHeight: "80vh"}}>
               <lottie-player
                 autoplay
                 controls
@@ -30,7 +31,9 @@ function App() {
               >
               </lottie-player>
             </Col>
-            <Col span={8} className="AnimarionForm" ><AnimarionForm onLoadAnimation={refreshAnimation} /></Col>
+            <Col span={8} className="AnimarionForm" >
+              <AnimarionForm onLoadAnimation={refreshAnimation} />
+            </Col>
           </Row>
         </Content>
       </Layout>
