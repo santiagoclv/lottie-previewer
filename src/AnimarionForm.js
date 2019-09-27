@@ -156,7 +156,7 @@ class AnimarionForm extends React.Component {
         {formItems}
         <Form.Item {...formItemLayoutWithOutLabel}>
           <Button type="dashed" onClick={this.add} style={{ width: "60%" }}>
-            <Icon type="plus" /> Add field
+            <Icon type="plus" /> Add placeholder value
           </Button>
         </Form.Item>
 
